@@ -7,7 +7,4 @@ class PagesController < ApplicationController
 
   def contact
   end
-
-  def test
-  end
 end
